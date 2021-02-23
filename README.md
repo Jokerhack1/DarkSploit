@@ -14,7 +14,7 @@ next tutorial.
 <br>
 #TERMUX
 <br>
-$ git clone https://github.com/LOoLzeC/DarkSploit
+$ git clone https://github.com/Jokerhack1/DarkSploit
 <br>
 $ cd DarkSploit
 <br>
@@ -33,7 +33,7 @@ $ python2 DrXp.py
 <br>
 #GNUROOT
 <br>
-$ git clone https://github.com/LOoLzeC/DarkSploit
+$ git clone https://github.com/Jokerhack1/DarkSploit
 <br>
 $ cd DarkSploit
 <br>
@@ -55,4 +55,4 @@ U can update this program with command "darksploit update"
 <br>
 if you have a bug is running this program?report bug on my instagram.
 <br>
-contact instagram : @yungreyyxrist
+My Telegram : https://t.me/Jokerhacker_channel
